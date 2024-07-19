@@ -1,6 +1,6 @@
 # Salvatore Frasconà 👋
 
-I love writing code to empower people 🌱.
+I love writing code for empower people 🌱.
 
 ## Working on 🦾
 
